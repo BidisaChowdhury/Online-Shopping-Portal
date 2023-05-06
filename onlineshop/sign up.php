@@ -92,6 +92,7 @@ function valid()
 	}
 }	
 </script>
+
 <style>
 fieldset {
     border-spacing: 25px;

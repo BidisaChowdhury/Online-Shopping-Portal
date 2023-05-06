@@ -124,6 +124,7 @@ div.desc1 {
 	background-color:#ffffff;
 }
 </style>
+
 <?php
 $mb=$_GET['q'];
 $con=new MySQLi("localhost","root","","project");
